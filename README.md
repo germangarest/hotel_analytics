@@ -1,36 +1,36 @@
-# 🏨 Hotel Analytics
+# 🏨 Hotel analytics
 
 ![Hotel](src/img/hotel.jpg) 
 
 ## 📋 Descripción
-Hotel Analytics es una plataforma integral de análisis hotelero que utiliza modelos de Machine Learning para proporcionar predicciones y análisis en tres áreas clave:
+Hotel analytics es una plataforma integral de análisis hotelero que utiliza modelos de Machine Learning para proporcionar predicciones y análisis en tres áreas clave:
 
-1. **🔮 Predicción de Cancelaciones**
+1. **🔮 Predicción de cancelaciones**
    - Predice la probabilidad de que una reserva sea cancelada
    - Análisis de factores de riesgo
    - Recomendaciones personalizadas para gestión de reservas
    - Precisión del modelo: 84.35%
 
-2. **💰 Predicción de Precios**
+2. **💰 Predicción de precios**
    - Estima el precio medio por noche óptimo
    - Análisis de factores que influyen en el precio
    - Recomendaciones para optimización de tarifas
    - R² Score: 0.75
 
-3. **⭐ Clasificación por Imagen**
+3. **⭐ Clasificación por imagen**
    - Predice la categoría de estrellas de un hotel basándose en imágenes
    - Análisis de características comunes por categoría
    - Implementación sin redes neuronales
    - Interfaz intuitiva para carga de imágenes
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías utilizadas
 - **Frontend**: Streamlit
 - **Análisis de Datos**: Pandas, NumPy
 - **Machine Learning**: Scikit-learn
 - **Procesamiento de Imágenes**: Pillow
 - **Gestión de Modelos**: Joblib
 
-## 📁 Estructura del Proyecto
+## 📁 Estructura del proyecto
 ```
 hotel-analytics/
 ├── Home.py                    # Página principal de la aplicación
@@ -48,9 +48,9 @@ hotel-analytics/
 └── README.md
 ```
 
-## 🚀 Instalación y Ejecución
+## 🚀 Instalación y ejecución
 
-### Requisitos Previos
+### Requisitos previos
 - Python 3.8 o superior
 - pip (gestor de paquetes de Python)
 
@@ -73,19 +73,19 @@ hotel-analytics/
    ```
 2. Abrir el navegador en `http://localhost:8501`
 
-## 🎯 Características Principales
+## 🎯 Características principales
 
-### Predicción de Cancelaciones
+### Predicción de cancelaciones
 - Análisis de múltiples factores de riesgo
 - Recomendaciones basadas en el nivel de riesgo
 - Visualización clara de la probabilidad de cancelación
 
-### Predicción de Precios
+### Predicción de precios
 - Estimación precisa de precios por noche
 - Análisis de factores que influyen en el precio
 - Recomendaciones para optimización de ingresos
 
-### Clasificación por Imagen
+### Clasificación por imagen
 - Interfaz intuitiva para carga de imágenes
 - Análisis de características por categoría
 - Predicciones rápidas y precisas
