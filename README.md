@@ -2,6 +2,8 @@
 
 ![Hotel](src/img/hotel.jpg) 
 
+https://hotel-analytics.streamlit.app
+
 ## 📋 Descripción
 Hotel analytics es una plataforma integral de análisis hotelero que utiliza modelos de Machine Learning para proporcionar predicciones y análisis en tres áreas clave:
 
