@@ -1,6 +1,6 @@
 # 🏨 Hotel Analytics
 
-![Hotel](src/img/Hotel.jpg) 
+![Hotel](src/img/hotel.jpg) 
 
 ## 📋 Descripción
 Hotel Analytics es una plataforma integral de análisis hotelero que utiliza modelos de Machine Learning para proporcionar predicciones y análisis en tres áreas clave:
